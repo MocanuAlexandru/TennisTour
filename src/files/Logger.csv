@@ -1,0 +1,187 @@
+2019-05-07 01:31:22.073,Added player with id 6
+2019-05-07 01:37:02.377,Displayed the players
+2019-05-07 01:37:25.378,Removed player with id 6
+2019-05-07 01:37:27.472,Displayed the players
+2019-05-07 01:51:03.833,Displayed the tournaments
+2019-05-07 01:51:41.364,Added match with number 1 in the tournament with id 2
+2019-05-07 01:52:09.412,Display matches from the tournament with id 2
+2019-05-07 01:53:52.09,Played set 4 in match with number 1 in the tournament with id 2
+2019-06-02 20:28:20.282,Displayed the players
+2019-06-02 20:29:17.237,Displayed the players
+2019-06-02 20:30:43.514,Added player with id 7
+2019-06-02 20:30:48.669,Displayed the players
+2019-06-02 20:31:00.869,Displayed the tournaments
+2019-06-02 20:31:54.107,Added tournament with id 4
+2019-06-02 20:31:58.278,Displayed the tournaments
+2019-06-02 20:33:59.89,Added match with number 1 in the tournament with id 4
+2019-06-02 20:34:56.798,Displayed the tournaments
+2019-06-02 20:35:02.203,Displayed the players
+2019-06-02 20:35:50.504,Added player with id 7
+2019-06-02 20:35:57.8,Added tournament with id 4
+2019-06-02 20:36:17.732,Added match with number 1 in the tournament with id 4
+2019-06-02 20:36:37.587,Played set 1 in match with number 1 in the tournament with id 4
+2019-06-02 20:36:46.226,Played set 2 in match with number 1 in the tournament with id 4
+2019-06-02 20:36:48.944,Displayed the players
+2019-06-02 20:37:25.654,Displayed the players
+2019-06-02 20:49:52.729,Displayed the players
+2019-06-02 20:51:33.617,Displayed the players
+2019-06-02 20:53:22.873,Displayed the players
+2019-06-02 20:53:53.678,Displayed the players
+2019-06-02 21:03:03.812,Displayed the players
+2019-06-02 21:39:31.594,Displayed the players
+2019-06-02 21:40:08.556,Canceled set 4 in match with number 1 in the tournament with id 2
+2019-06-02 21:41:12.664,Canceled set 2 in match with number 1 in the tournament with id 4
+2019-06-02 21:41:20.124,Displayed the players
+2019-06-02 21:41:28.796,Display matches from the tournament with id 4
+2019-06-02 21:47:01.673,Canceled set 2 in match with number 1 in the tournament with id 4
+2019-06-02 21:47:06.871,Displayed the players
+2019-06-02 21:47:12.473,Display matches from the tournament with id 4
+2019-06-02 21:51:05.864,Canceled set 2 in match with number 1 in the tournament with id 4
+2019-06-02 21:51:08.091,Display matches from the tournament with id 4
+2019-06-02 21:51:13.502,Displayed the players
+2019-06-02 21:51:25.231,Displayed the players
+2019-06-02 21:51:30.695,Canceled set 2 in match with number 1 in the tournament with id 4
+2019-06-02 21:51:34.315,Display matches from the tournament with id 4
+2019-06-02 21:51:37.79,Displayed the players
+2019-06-02 22:00:18.143,Display matches from the tournament with id 2
+2019-06-02 22:00:27.193,Display matches from the tournament with id 3
+2019-06-02 22:00:46.838,Canceled score for match with number 1 in the tournament with id 3
+2019-06-02 22:00:49.607,Displayed the players
+2019-06-02 22:00:55.082,Display matches from the tournament with id 3
+2019-06-02 22:07:01.506,Removed match with number 0 in the tournament with id 4
+2019-06-02 22:07:04.959,Display matches from the tournament with id 4
+2019-06-02 22:24:17.323,Displayed the players
+2019-06-02 22:24:40.642,Added match to the tournament with id 4
+2019-06-02 22:25:01.449,Played set 1 in match with number 1 in the tournament with id 4
+2019-06-02 22:25:30.539,Added match to the tournament with id 4
+2019-06-02 22:25:41.845,Played set 1 in match with number 2 in the tournament with id 4
+2019-06-02 22:25:45.063,Displayed the players
+2019-06-02 22:30:23.362,Display matches from the tournament with id 4
+2019-06-02 22:30:31.083,Removed all matches from the tournament with id 4
+2019-06-02 22:30:33.746,Display matches from the tournament with id 4
+2019-06-02 22:30:37.188,Displayed the players
+2019-06-03 03:49:47.43,Displayed the players
+2019-06-03 03:50:02.539,Added player with id 1
+2019-06-03 03:50:04.404,Displayed the players
+2019-06-03 03:55:32.494,Displayed the players
+2019-06-03 03:55:49.941,Added player with id 1
+2019-06-03 03:55:51.946,Displayed the players
+2019-06-03 03:56:02.034,Displayed the players
+2019-06-03 03:58:25.215,Displayed the players
+2019-06-03 03:58:41.217,Added player with id 1
+2019-06-03 04:00:39.336,Added player with id 1
+2019-06-03 04:00:42.516,Displayed the players
+2019-06-03 04:00:54.644,Displayed the players
+2019-06-03 04:05:47.828,Displayed the players
+2019-06-03 04:06:11.6,Displayed the players
+2019-06-03 04:07:39.17,Displayed the players
+2019-06-03 04:07:54.125,Displayed the players
+2019-06-03 04:08:09.955,Removed player with id 6
+2019-06-03 04:08:43.434,Displayed the players
+2019-06-03 04:08:49.947,Removed player with id 6
+2019-06-03 04:08:54.407,Displayed the players
+2019-06-03 04:09:06.857,Removed player with id 2
+2019-06-03 04:09:16.677,Displayed the players
+2019-06-03 04:18:12.242,Displayed the tournaments
+2019-06-03 04:18:28.378,Added tournament with id 1
+2019-06-03 04:18:36.197,Displayed the tournaments
+2019-06-03 04:18:50.977,Displayed the tournaments
+2019-06-03 04:19:01.673,Displayed the players
+2019-06-03 04:19:05.108,Displayed the tournaments
+2019-06-03 04:23:22.68,Displayed the players
+2019-06-03 04:23:27.695,Removed player with id 5
+2019-06-03 04:23:30.815,Removed player with id 8
+2019-06-03 04:23:33.395,Removed player with id 4
+2019-06-03 04:23:35.304,Removed player with id 1
+2019-06-03 04:23:38.751,Removed player with id 7
+2019-06-03 04:23:43.184,Removed all matches from the tournament with id 1
+2019-06-03 04:24:32.572,Displayed the players
+2019-06-03 04:24:37.016,Displayed the tournaments
+2019-06-03 04:24:41.512,Removed all matches from the tournament with id 1
+2019-06-03 04:24:41.661,Removed tournament with id 1
+2019-06-03 04:24:59.809,Displayed the tournaments
+2019-06-03 04:25:09.514,Displayed the tournaments
+2019-06-03 04:57:28.028,Added player with id 9
+2019-06-03 04:57:39.16,Removed player with id 3
+2019-06-03 04:57:44.098,Displayed the players
+2019-06-03 04:59:17.034,Added tournament with id 2
+2019-06-03 04:59:49.942,Displayed the players
+2019-06-03 04:59:53.814,Displayed the tournaments
+2019-06-03 05:00:06.014,Added tournament with id 3
+2019-06-03 05:00:15.325,Removed all matches from the tournament with id 3
+2019-06-03 05:00:15.412,Removed tournament with id 3
+2019-06-03 05:08:46.088,Added player with id 10
+2019-06-03 05:11:58.302,Added match to the tournament with id 2
+2019-06-03 05:12:08.361,Display matches from the tournament with id 2
+2019-06-03 05:34:07.487,Played set 1 in match with number 1 in the tournament with id 2
+2019-06-03 05:34:09.734,Display matches from the tournament with id 2
+2019-06-03 05:34:39.305,Added player with id 11
+2019-06-03 05:35:03.067,Added match to the tournament with id 2
+2019-06-03 05:35:13.791,Played set 1 in match with number 2 in the tournament with id 2
+2019-06-03 05:35:15.932,Display matches from the tournament with id 2
+2019-06-03 05:47:01.86,Display matches from the tournament with id 2
+2019-06-03 05:47:22.973,Canceled set 1 in match with number 1 in the tournament with id 2
+2019-06-03 05:47:26.147,Display matches from the tournament with id 2
+2019-06-03 05:47:38.567,Display matches from the tournament with id 2
+2019-06-03 05:48:34.77,Canceled set 1 in match with number 1 in the tournament with id 2
+2019-06-03 05:48:37.895,Display matches from the tournament with id 2
+2019-06-03 05:48:51.977,Display matches from the tournament with id 2
+2019-06-03 05:50:42.014,Played set 2 in match with number 2 in the tournament with id 2
+2019-06-03 05:50:44.498,Display matches from the tournament with id 2
+2019-06-03 05:51:45.39,Display matches from the tournament with id 2
+2019-06-03 05:52:16.323,Canceled set 2 in match with number 2 in the tournament with id 2
+2019-06-03 05:52:18.207,Display matches from the tournament with id 2
+2019-06-03 05:52:29.602,Display matches from the tournament with id 2
+2019-06-03 05:57:57.589,Display matches from the tournament with id 2
+2019-06-03 05:58:06.879,Canceled set 2 in match with number 2 in the tournament with id 2
+2019-06-03 06:01:12.001,Canceled set 2 in match with number 2 in the tournament with id 2
+2019-06-03 06:01:57.663,Display matches from the tournament with id 2
+2019-06-03 06:02:02.629,Canceled set 2 in match with number 2 in the tournament with id 2
+2019-06-03 06:02:07.469,Display matches from the tournament with id 2
+2019-06-03 06:02:18.29,Display matches from the tournament with id 2
+2019-06-03 06:02:41.778,Played set 2 in match with number 2 in the tournament with id 2
+2019-06-03 06:02:43.314,Display matches from the tournament with id 2
+2019-06-03 06:02:50.084,Canceled set 2 in match with number 2 in the tournament with id 2
+2019-06-03 06:02:50.266,Canceled set 1 in match with number 2 in the tournament with id 2
+2019-06-03 06:02:50.299,Canceled score for match with number 1 in the tournament with id 2
+2019-06-03 06:02:55.09,Display matches from the tournament with id 2
+2019-06-03 06:03:12.899,Display matches from the tournament with id 2
+2019-06-03 06:19:53.071,Display matches from the tournament with id 2
+2019-06-03 06:20:07.849,Played set 1 in match with number 2 in the tournament with id 2
+2019-06-03 06:20:14.516,Played set 2 in match with number 2 in the tournament with id 2
+2019-06-03 06:20:24.476,Canceled set 1 in match with number 1 in the tournament with id 2
+2019-06-03 06:20:24.506,Canceled score for match with number 0 in the tournament with id 2
+2019-06-03 06:20:24.848,Removed match with number 1 in the tournament with id 2
+2019-06-03 06:21:03.029,Display matches from the tournament with id 2
+2019-06-03 06:22:00.624,Display matches from the tournament with id 2
+2019-06-03 06:27:55.394,Display matches from the tournament with id 2
+2019-06-03 06:28:06.419,Played set 1 in match with number 1 in the tournament with id 2
+2019-06-03 06:28:07.973,Display matches from the tournament with id 2
+2019-06-03 06:28:48.078,Canceled set 1 in match with number 1 in the tournament with id 2
+2019-06-03 06:28:48.105,Canceled score for match with number 0 in the tournament with id 2
+2019-06-03 06:28:48.288,Removed match with number 1 in the tournament with id 2
+2019-06-03 06:28:53.402,Display matches from the tournament with id 2
+2019-06-03 06:31:44.669,Added match to the tournament with id 2
+2019-06-03 06:31:56.185,Played set 1 in match with number 2 in the tournament with id 2
+2019-06-03 06:31:58.456,Display matches from the tournament with id 2
+2019-06-03 06:32:10.856,Display matches from the tournament with id 2
+2019-06-03 06:32:45.661,Canceled score for match with number 0 in the tournament with id 2
+2019-06-03 06:32:45.833,Removed match with number 1 in the tournament with id 2
+2019-06-03 06:35:07.257,Display matches from the tournament with id 2
+2019-06-03 06:35:28.348,Added match to the tournament with id 2
+2019-06-03 06:35:54.016,Played set 1 in match with number 2 in the tournament with id 2
+2019-06-03 06:36:01.779,Played set 1 in match with number 1 in the tournament with id 2
+2019-06-03 06:36:08.139,Played set 2 in match with number 2 in the tournament with id 2
+2019-06-03 06:36:12.097,Display matches from the tournament with id 2
+2019-06-03 06:36:30.545,Canceled set 1 in match with number 1 in the tournament with id 2
+2019-06-03 06:36:30.571,Canceled score for match with number 0 in the tournament with id 2
+2019-06-03 06:36:30.658,Removed match with number 1 in the tournament with id 2
+2019-06-03 06:36:30.733,Canceled set 2 in match with number 1 in the tournament with id 2
+2019-06-03 06:36:30.838,Canceled set 1 in match with number 1 in the tournament with id 2
+2019-06-03 06:36:30.855,Canceled score for match with number 0 in the tournament with id 2
+2019-06-03 06:36:30.95,Removed match with number 1 in the tournament with id 2
+2019-06-03 06:36:30.969,Removed all matches from the tournament with id 2
+2019-06-03 06:36:31.092,Removed tournament with id 2
+2019-06-03 06:36:47.915,Added tournament with id 4
+2019-06-03 06:37:09.142,Added match to the tournament with id 4
+2019-06-03 06:37:23.724,Display matches from the tournament with id 4
